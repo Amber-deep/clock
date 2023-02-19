@@ -1,0 +1,39 @@
+.main{
+    width: 400px;
+    margin: auto;
+    position: relative;
+}
+.clock_img{
+    width: 400px;
+    
+}
+.hour_key{
+    width: 5px;
+    background-color: black;
+    height: 102px;
+    border-radius: 4px;
+    transform-origin: bottom;
+    position: absolute;
+    left: 198px;
+    top: 106px;
+}
+.mint_key{
+    width: 6px;
+    background-color: black;
+    height: 126px;
+    border-radius: 4px;
+    transform-origin: bottom;
+    position: absolute;
+    left: 198px;
+    top: 80px;
+}
+.sec_key{
+    width: 2px;
+    background-color: black;
+    height: 146px;
+    border-radius: 4px;
+    transform-origin: bottom;
+    position: absolute;
+    left: 198px;
+    top: 59px;
+}
